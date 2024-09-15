@@ -1,19 +1,25 @@
-## Hi there 👋
+<h1 align="center">
+code, tea, music, commit, repeat.
+</h1>
+<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=C70CF7&center=true&vCenter=true&random=true&width=435&lines=Computer+science+student;Data+science+explorer+; Embedded+Developer;AI+%7C+ML+%7C+DL+enthusiast" alt="Typing SVG" />
+</p>
 
-<!--
-**jakhongirav/jakhongirav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="animation.gif" alt="Thank u" width="320" />
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
--->
-# 💫 About Me:
-🔭I'm currently working on my side projects<br>🌱I'm currently learning Node.js, SQL, Express.js<br>💬You can ask me about React, and Next.js<br>
+```
+urdrops@github
+-------------------------
+ I am a Software engineer
+ I have a strong interest in Linux and Artificial Intelligence
+ Working on Frontend and Backend development
+ Learning about Backend and IOS development
+ Main languages: JavaScript, TypeScript
+ Interested in Full Stack Web and Mobile development
+```
+<hr>
 
 
 ## 🌐 Socials:
@@ -32,4 +38,3 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=jakhongirav&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
