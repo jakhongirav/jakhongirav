@@ -8,7 +8,8 @@ code, tea, music, commit, repeat.
 
 <img align="left" src="animation.gif" alt="Thank u" width="320" />
 <hr>
-<br/>
+
+
 ```
 jakhongirav@github
 -------------------------
@@ -19,8 +20,8 @@ jakhongirav@github
  Main languages: JavaScript, TypeScript
  Interested in Full Stack Web and Mobile development
 ```
-<br/>
-<br/>
+
+
 <hr>
 
 <br/>
