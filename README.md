@@ -16,6 +16,9 @@ jakhongirav@github
 I am a Software engineer for now.
 AI • Web • SaaS
 Turning ideas into working products.
+
+
+
 ```
 
 
