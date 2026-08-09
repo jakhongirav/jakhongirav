@@ -13,12 +13,9 @@ code, tea, music, commit, repeat.
 ```
 jakhongirav@github
 -------------------------
- I am a Software engineer
- I have a strong interest in Linux and Artificial Intelligence
- Working on Frontend and Backend development
- Learning about Backend and IOS development
- Main languages: JavaScript, TypeScript
- Interested in Full Stack Web and Mobile development
+I am a Software engineer for now.
+AI • Web • SaaS
+Turning ideas into working products.
 ```
 
 
